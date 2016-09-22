@@ -1,0 +1,22 @@
+{
+  "name": "ushell-module-base",
+  "homepage": "https://github.com/afeiship/ushell-module-base",
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "description": "Unix like shell base module.",
+  "main": "index.sh",
+  "keywords": [
+    "ushell",
+    "module",
+    "base"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
