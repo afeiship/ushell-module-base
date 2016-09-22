@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
-ROOT_PATH = $(pwd);
+ROOT_PATH=$(pwd);
 
-echo $ROOT_PATH;
+alias usm-base-reload="source ${ROOT_PATH}/index.sh";
+source $ROOT_PATH/cd.sh;
+source $ROOT_PATH/chmod.sh;
