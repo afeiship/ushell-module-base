@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ## path:
-ROOT_PATH=$(pwd);
+ROOT_PATH=$(dirname $BASH_SOURCE);
 
 ## base:
 source $ROOT_PATH/cd.sh;

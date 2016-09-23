@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-ROOT_PATH=$(pwd);
+ROOT_PATH=$(dirname $BASH_SOURCE);
 source $ROOT_PATH/function.sh;
 
 
