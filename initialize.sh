@@ -8,4 +8,8 @@ $(
   cd ~;
   mkdir_with_check github;
   mkdir_with_check git-oschina;
+  mkdir_with_check soft;
 );
+
+
+unset ROOT_PATH;
