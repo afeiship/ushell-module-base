@@ -18,7 +18,7 @@ alias mkcd='__mkcd(){ mkdir $1; cd $1; }; __mkcd';
 
 
 ## usm base modules:
-alias rm-usm='rm -rf $BASH_BASE_PATH/ushell_modules'
-alias rm-usm-md='__rm_usm_md(){ rm -rf $BASH_BASE_PATH/ushell_modules/ushell-module-$1; }; __rm_usm_md';
+alias usm-remove-all='rm -rf $BASH_BASE_PATH/ushell_modules'
+alias usm-remove-item='__rm_usm_md(){ rm -rf $BASH_BASE_PATH/ushell_modules/ushell-module-$1; }; __rm_usm_md';
 
 unset ROOT_PATH;
