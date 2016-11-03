@@ -16,6 +16,6 @@ alias g-cp='rsync -av --progress';
 
 ## usm base modules:
 alias rm-usm='rm -rf $BASH_BASE_PATH/ushell_modules'
-alias rm-usm-md='rm -rf $BASH_BASE_PATH/ushell_modules/ushell-module-$0';
+alias rm-usm-md='rm -rf $BASH_BASE_PATH/ushell_modules/ushell-module-$1';
 
 unset ROOT_PATH;
