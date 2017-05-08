@@ -16,7 +16,7 @@ alias g-remove='rm -rf * .* *.*';
 alias g-cp='rsync -av --progress';
 alias mkcd='_(){ mkdir $1; cd $1; }; _';
 alias rmf='rm -rf';
-alias file-size='du -hs *';
+alias size='du -hs *';
 
 
 ## usm base modules:
