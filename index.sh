@@ -6,6 +6,7 @@ source $ROOT_PATH/function.sh;
 ## base:
 source $ROOT_PATH/cd.sh;
 source $ROOT_PATH/chmod.sh;
+source $ROOT_PATH/chown.sh;
 
 ## aliases:
 alias ll='ls -al';
