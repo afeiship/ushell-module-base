@@ -1,0 +1,21 @@
+{
+    "name": "ushell-module-base",
+    "version": "0.0.1",
+    "description": "Unix like shell base module.",
+    "main": "index.sh",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/afeiship/ushell-module-base.git"
+    },
+    "keywords": [
+        "ushell",
+        "unix",
+        "shell"
+    ],
+    "author": "afei",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/afeiship/ushell-module-base/issues"
+    },
+    "homepage": "https://github.com/afeiship/ushell-module-base#readme"
+}
