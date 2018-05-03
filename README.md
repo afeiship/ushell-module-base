@@ -1,5 +1,5 @@
 # ushell-module-base
-Unix like shell base module.
+> Unix like shell base module.
 
 ## resources:
 
