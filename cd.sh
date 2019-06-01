@@ -3,6 +3,3 @@
 alias ..='cd ..';
 alias ...='cd ../..';
 alias cd-='cd -';
-alias cd-osc='cd ~/git-oschina';
-alias cd-git='cd ~/github';
-alias cd-soft='cd ~/soft';

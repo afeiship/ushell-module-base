@@ -8,6 +8,11 @@ source $ROOT_PATH/cd.sh;
 source $ROOT_PATH/chmod.sh;
 source $ROOT_PATH/chown.sh;
 
+# Edit file
+alias alias-edit='code $BASH_BASE_PATH';
+alias alias-reload='source $BASH_BASE_PATH/src/index.sh';
+alias backup='cd ~/github/macos-backup/ && gg "Automatic backup mac files" && cd -';
+
 ## aliases:
 alias ll='ls -al';
 alias cwd="pwd | tr -d '\n' | pbcopy";
