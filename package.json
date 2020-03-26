@@ -1,6 +1,6 @@
 {
-    "name": "ushell-module-base",
-    "version": "0.0.1",
+    "name": "@feizheng/ushell-module-base",
+    "version": "1.0.0",
     "description": "Unix like shell base module.",
     "main": "index.sh",
     "repository": {
@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/afeiship/ushell-module-base/issues"
     },
-    "homepage": "https://github.com/afeiship/ushell-module-base#readme"
+    "homepage": "https://github.com/afeiship/ushell-module-base#readme",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    }
 }
