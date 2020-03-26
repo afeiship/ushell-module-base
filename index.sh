@@ -23,7 +23,8 @@ alias g-cp='rsync -av --progress';
 alias mkcd='_(){ mkdir $1; cd $1; }; _';
 alias rmf='rm -rf';
 alias size='du -hs *';
-alias o="open "
+alias o="open ."
+alias op="open "
 
 
 ## usm base modules:
