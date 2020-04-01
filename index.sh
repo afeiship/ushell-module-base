@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
+BASE_NAME=$(basename `pwd`)
 source $ROOT_PATH/function.sh;
+
 
 ## base:
 source $ROOT_PATH/cd.sh;
@@ -25,6 +27,7 @@ alias rmf='rm -rf';
 alias size='du -hs *';
 alias o="open ."
 alias op="open "
+alias opp="open https://github.com/afeiship/$BASE_NAME"
 
 
 ## usm base modules:
