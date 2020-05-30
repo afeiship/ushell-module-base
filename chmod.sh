@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-alias chmod-all='chmod +x * .*';
+alias cmod='chmod +x * .*';

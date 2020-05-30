@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-alias chown-whoami='sudo chown -R $(whoami)';
+alias cwn='sudo chown -R $(whoami)';

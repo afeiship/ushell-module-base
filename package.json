@@ -1,24 +1,27 @@
 {
-    "name": "@feizheng/ushell-module-base",
-    "version": "1.0.3",
-    "description": "Unix like shell base module.",
-    "main": "index.sh",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/afeiship/ushell-module-base.git"
-    },
-    "keywords": [
-        "ushell",
-        "unix",
-        "shell"
-    ],
-    "author": "afei",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/afeiship/ushell-module-base/issues"
-    },
-    "homepage": "https://github.com/afeiship/ushell-module-base#readme",
-    "publishConfig": {
-        "registry": "https://registry.npmjs.org/"
-    }
+  "name": "@feizheng/ushell-module-base",
+  "version": "1.0.3",
+  "description": "Unix like shell base module.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-base.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-base/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-base#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
 }
