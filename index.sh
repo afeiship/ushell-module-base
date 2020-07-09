@@ -27,6 +27,7 @@ alias size='du -hs *';
 
 # open
 alias o="open ."
+alias ohub="open `git config --get remote.origin.url | sed -e 's/git@/https:\/\//' -e 's/com:/com\//'`| head -n1"
 alias op="open "
 
 
