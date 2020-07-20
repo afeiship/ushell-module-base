@@ -27,7 +27,7 @@ alias size='du -hs *';
 
 # open
 alias o="open ."
-alias op="open `git-url-cli`"
+alias op='open "`git-url-cli`"'
 
 
 unset ROOT_PATH;
