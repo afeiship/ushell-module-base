@@ -27,7 +27,7 @@ alias size='du -hs *';
 
 # open
 alias o="open ."
-alias op='open "`guc`"'
+alias op='open "`guc -u`"'
 
 
 unset ROOT_PATH;
