@@ -26,10 +26,10 @@ alias cls='clear';
 alias size='du -hs *';
 
 # open
-alias o="open ."
-alias op='open "`guc -u`"'
-alias opm='open "`guc -m`"'
-alias opp='open $(guc -p)'
+alias o="open .";
+alias op='open "`guc -u`"';
+alias opm='open "`guc -m`"';
+alias opp='open $(guc -p)';
 
 
 unset ROOT_PATH;
