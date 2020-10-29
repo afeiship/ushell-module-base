@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-base",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Unix like shell base module.",
   "main": "index.sh",
   "repository": {
