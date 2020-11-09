@@ -1,6 +1,6 @@
 {
-  "name": "@feizheng/ushell-module-base",
-  "version": "1.0.14",
+  "name": "@jswork/ushell-module-base",
+  "version": "1.0.0",
   "description": "Unix like shell base module.",
   "main": "index.sh",
   "repository": {
@@ -8,9 +8,13 @@
     "url": "git+https://github.com/afeiship/ushell-module-base.git"
   },
   "keywords": [
-    "ushell",
     "unix",
-    "shell"
+    "shell",
+    "base",
+    "cd",
+    "chmod",
+    "chown",
+    "guc"
   ],
   "author": "afei",
   "license": "MIT",
