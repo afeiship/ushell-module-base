@@ -26,6 +26,5 @@ alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias size='du -hs *';
 alias o="open .";
-alias t="tmux"
 
 unset ROOT_PATH;
