@@ -4,12 +4,11 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 source $ROOT_PATH/function.sh;
 
 
-$(
-  cd ~;
-  mkdir_with_check github;
-  mkdir_with_check git-oschina;
-  mkdir_with_check software;
-);
+npm i -g del-cli
+npm i -g ntl
+npm i -g yo
+npm i -g release-it
+npm i -g @feizheng/git-url-cli
 
 
 unset ROOT_PATH;

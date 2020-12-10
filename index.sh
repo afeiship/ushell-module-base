@@ -26,5 +26,6 @@ alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias size='du -hs *';
 alias o="open .";
+alias x="exit";
 
 unset ROOT_PATH;
