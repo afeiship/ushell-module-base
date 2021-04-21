@@ -9,11 +9,9 @@ BASE_NAME=$(basename `pwd`)
 PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ ";
 
 ## base:
-source $ROOT_PATH/function.sh;
 source $ROOT_PATH/cd.sh;
 source $ROOT_PATH/chmod.sh;
 source $ROOT_PATH/chown.sh;
-source $ROOT_PATH/guc.sh;
 
 # Edit file
 alias alias-edit='code $BASH_BASE_PATH';
