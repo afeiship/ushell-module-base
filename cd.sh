@@ -3,5 +3,3 @@
 alias ..='cd ..';
 alias ...='cd ../..';
 alias cd-='cd -';
-alias d='cd';
-alias g='cd ~/github';

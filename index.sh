@@ -15,6 +15,8 @@ source $ROOT_PATH/chmod.sh;
 source $ROOT_PATH/chown.sh;
 source $ROOT_PATH/guc.sh;
 
+source $ROOT_PATH/modules/shorty.sh;
+
 # Edit file
 alias alias-edit='code $BASH_BASE_PATH';
 alias alias-reload='source $BASH_BASE_PATH/src/index.sh';
@@ -25,7 +27,5 @@ alias ll='ls -al';
 alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias size='du -hs *';
-alias o="open .";
-alias x="exit";
 
 unset ROOT_PATH;
