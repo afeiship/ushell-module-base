@@ -9,19 +9,16 @@ BASE_NAME=$(basename `pwd`)
 PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ ";
 
 ## base:
-source $ROOT_PATH/cd.sh;
-source $ROOT_PATH/chmod.sh;
-source $ROOT_PATH/chown.sh;
-
+source $ROOT_PATH/modules/cd.sh;
+source $ROOT_PATH/modules/chmod.sh;
+source $ROOT_PATH/modules/chown.sh;
 source $ROOT_PATH/modules/shorty.sh;
 
 # Edit file
-alias alias-edit='code $BASH_BASE_PATH';
-alias alias-reload='source $BASH_BASE_PATH/src/index.sh';
+alias reload='source $BASH_BASE_PATH/src/index.sh';
 alias backup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -';
 
 ## aliases:
-alias ll='ls -al';
 alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias size='du -hs *';

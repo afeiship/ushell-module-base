@@ -9,6 +9,9 @@ alias s="npm run start";
 
 # `y` in ushell-module-yarn
 
+# list
+alias l='ls -al';
+
 # open/exit
 alias o="open .";
 alias x="exit";
