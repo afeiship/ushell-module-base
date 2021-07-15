@@ -16,7 +16,7 @@ source $ROOT_PATH/modules/shorty.sh;
 
 # Edit file
 alias reload='source $BASH_BASE_PATH/src/index.sh';
-alias backup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -';
+alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -';
 
 ## aliases:
 alias cwd="pwd | tr -d '\n' | pbcopy";
