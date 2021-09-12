@@ -19,7 +19,8 @@ alias reload='source $BASH_BASE_PATH/src/index.sh';
 alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -';
 
 ## aliases:
-alias cwd="pwd | tr -d '\n' | pbcopy";
+# alias cwd="pwd | tr -d '\n' | pbcopy";
+alias cwd="clipy `pwd | tr -d '\n'`";
 alias cls='clear';
 alias size='du -hs *';
 
