@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-base#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
