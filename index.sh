@@ -22,5 +22,6 @@ alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac 
 alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias size='du -hs *';
+alias count='ls | wc -l';
 
 unset ROOT_PATH;
