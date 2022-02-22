@@ -13,6 +13,7 @@ source $ROOT_PATH/modules/cd.sh;
 source $ROOT_PATH/modules/chmod.sh;
 source $ROOT_PATH/modules/chown.sh;
 source $ROOT_PATH/modules/shorty.sh;
+source $ROOT_PATH/modules/tail.sh;
 
 # Edit file
 alias reload='source $BASH_BASE_PATH/src/index.sh';
@@ -21,7 +22,8 @@ alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac 
 ## aliases:
 alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
-alias size='du -hs *';
+alias sz='du -hs *';
+alias szz='du -hks';
 alias count='ls | wc -l';
 
 unset ROOT_PATH;
