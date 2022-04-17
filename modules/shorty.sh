@@ -22,3 +22,6 @@ alias g='cd ~/github';
 
 # v
 alias v="vim";
+
+# ssh
+alias h="ssh"
