@@ -13,6 +13,6 @@ alias spider="cd ~/aric-spider";
 alias business="cd ~/aric-business";
 alias pypi="cd ~/aric-pypi";
 alias tpls="cd ~/aric-tpls";
-alias alo7="cd ~/alo7i";
+alias a7="cd ~/alo7i";
 alias saybot="cd ~/saybot";
 
