@@ -11,6 +11,7 @@ PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ 
 ## base:
 source $ROOT_PATH/modules/cd.sh;
 source $ROOT_PATH/modules/ip.sh;
+source $ROOT_PATH/modules/kill.sh;
 source $ROOT_PATH/modules/open.sh;
 source $ROOT_PATH/modules/shorty.sh;
 source $ROOT_PATH/modules/tail.sh;
