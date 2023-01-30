@@ -9,6 +9,7 @@ alias c-='cd -';
 alias notes="cd ~/aric-notes";
 alias server="cd ~/aric-server";
 alias lwb="cd ~/aric-lwb";
+alias jsw="cd ~/aric-jswork";
 alias spider="cd ~/aric-spider";
 alias business="cd ~/aric-business";
 alias pypi="cd ~/aric-pypi";
