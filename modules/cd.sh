@@ -17,4 +17,4 @@ alias tpls="cd ~/aric-tpls";
 alias a7="cd ~/alo7i";
 alias saybot="cd ~/saybot";
 alias down="cd ~/Downloads";
-
+alias mkp="function _mkp(){ mkdir -p $1 && cd $1; }; _mkp; unset -f _mkp";
