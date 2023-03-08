@@ -28,4 +28,7 @@ alias sz='du -hs *';
 alias szz='du -hks';
 alias count='ls | wc -l';
 
+# mkdir and change to
+alias mkp="$ROOT_PATH/modules/_mkp.sh";
+
 unset ROOT_PATH;
