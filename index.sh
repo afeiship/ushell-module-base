@@ -29,4 +29,8 @@ alias sz='du -hs *';
 alias szz='du -hks';
 alias count='ls | wc -l';
 
+# brew install expect
+alias mkpw='mkpasswd';
+alias mkpwp='mkpasswd | pbcopy';
+
 unset ROOT_PATH;
