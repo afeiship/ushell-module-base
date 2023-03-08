@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-mkdir -p "$1" && cd "$1"
+
+function mkp() {
+  mkdir -p "$1" && cd "$1"
+}
