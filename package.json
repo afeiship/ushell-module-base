@@ -27,8 +27,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "prettier": "^2.8.0",
-    "release-it": "^15.5.1"
+    "prettier": "^2.8.0"
   },
   "scripts": {
     "release": "release-it"
