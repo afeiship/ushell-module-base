@@ -17,7 +17,7 @@ alias o="open .";
 alias x="exit";
 
 # cd
-alias d='cd';
+alias d='cd $(git rev-parse --show-toplevel)';
 alias g='cd ~/github';
 
 # v
