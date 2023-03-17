@@ -9,7 +9,9 @@ BASE_NAME=$(basename `pwd`)
 PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ ";
 
 ## base:
+source $ROOT_PATH/modules/_mkp.sh;
 source $ROOT_PATH/modules/cd.sh;
+source $ROOT_PATH/modules/grep.sh;
 source $ROOT_PATH/modules/ip.sh;
 source $ROOT_PATH/modules/kill.sh;
 source $ROOT_PATH/modules/open.sh;
@@ -26,5 +28,9 @@ alias cls='clear';
 alias sz='du -hs *';
 alias szz='du -hks';
 alias count='ls | wc -l';
+
+# brew install expect
+alias mkpw='mkpasswd';
+alias mkpwp='mkpasswd | pbcopy';
 
 unset ROOT_PATH;
