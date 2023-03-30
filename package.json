@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-base",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "description": "Unix like shell base module.",
   "main": "index.sh",
   "repository": {
