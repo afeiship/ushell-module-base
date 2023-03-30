@@ -18,3 +18,4 @@ alias dkr="cd ~/aric-docker";
 alias a7="cd ~/alo7i";
 alias saybot="cd ~/saybot";
 alias down="cd ~/Downloads";
+alias dot="cd ~/.dotfiles";
