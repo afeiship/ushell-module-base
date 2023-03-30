@@ -21,6 +21,7 @@ source $ROOT_PATH/modules/tail.sh;
 # Edit file
 alias reload='source $BASH_BASE_PATH/src/index.sh';
 alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -';
+alias mkd="$ROOT_PATH/modules/_mkd.sh"
 
 ## aliases:
 alias cwd="pwd | tr -d '\n' | pbcopy";
