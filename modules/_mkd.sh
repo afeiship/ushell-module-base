@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+TARGET_DIR=$HOME/alo7i/daily-works/;
+
+# test target dir
+if [[ ! -d $TARGET_DIR ]]; then
+  echo "target dir: $TARGET_DIR not exists"
+  exit 1
+fi
+
 cd $HOME/alo7i/daily-works/src/$(date +%Y)/$(date +%Y-%m)
 
 # this weekday
