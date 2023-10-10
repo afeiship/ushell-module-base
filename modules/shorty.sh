@@ -11,6 +11,8 @@ alias s="npm run start";
 
 # list
 alias l='ls -lhtr';
+alias la='ls -lhtr';
+alias ll='ls -alh';
 
 # open/exit
 alias o="open .";
