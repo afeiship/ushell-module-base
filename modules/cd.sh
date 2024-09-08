@@ -3,6 +3,7 @@
 alias ..='cd ..';
 alias ...='cd ../..';
 alias c-='cd -';
+alias cpi="cd packages/lib";
 
 
 # base dir
