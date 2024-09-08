@@ -15,6 +15,7 @@ alias ll='ls -alh';
 
 # open/exit
 alias o="open .";
+alias p="proxy";
 alias x="exit";
 
 # cd
