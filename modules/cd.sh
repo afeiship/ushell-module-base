@@ -21,3 +21,6 @@ alias saybot="cd ~/saybot";
 alias dw="cd ~/Downloads";
 alias dot="cd ~/.dotfiles";
 alias fit="cd ~/aric-tpls/fittings";
+
+# crontab tasks
+alias ctasks="cd ~/aric-server/crontab-tasks";
