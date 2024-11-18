@@ -12,6 +12,7 @@ PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ 
 source $ROOT_PATH/modules/_mkp.sh;
 source $ROOT_PATH/modules/cd.sh;
 source $ROOT_PATH/modules/aliyun.sh;
+source $ROOT_PATH/modules/crontab.sh;
 source $ROOT_PATH/modules/grep.sh;
 source $ROOT_PATH/modules/ip.sh;
 source $ROOT_PATH/modules/kill.sh;
