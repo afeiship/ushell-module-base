@@ -30,6 +30,7 @@ alias cwd="pwd | tr -d '\n' | pbcopy";
 alias cls='clear';
 alias sz='du -hs *';
 alias szz='du -hks';
+alias szm="ps aux --sort=-%mem | head";
 alias count='ls | wc -l';
 
 # brew install expect
