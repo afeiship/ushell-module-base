@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-base",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "description": "Unix like shell base module.",
   "main": "index.sh",
   "repository": {
@@ -25,9 +25,6 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.0"
   },
   "scripts": {
     "release": "release-it"
