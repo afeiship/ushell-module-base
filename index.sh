@@ -20,7 +20,6 @@ source $ROOT_PATH/modules/open.sh
 source $ROOT_PATH/modules/shorty.sh
 source $ROOT_PATH/modules/tail.sh
 source $ROOT_PATH/modules/yazi.sh
-source $ROOT_PATH/modules/tldr.sh
 
 # Edit file
 alias reload='source $BASH_BASE_PATH/src/index.sh'
