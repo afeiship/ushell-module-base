@@ -13,3 +13,16 @@ function ins() {
     return 1
   fi
 }
+
+function binfix() {
+  # $1 为目录的 bin 文件
+  # 如果没有 $1 参数，则提示使用方法
+  if [ $# -eq 0 ]; then
+    echo "Usage: binfix <binfile>"
+    return 1
+  fi
+
+  # sudo xattr -d com.apple.quarantine $1
+  cd /usr/local/bin
+  sudo xattr -d com.apple.quarantine "$1"
+}
