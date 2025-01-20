@@ -16,7 +16,6 @@ source $ROOT_PATH/modules/crontab.sh
 source $ROOT_PATH/modules/grep.sh
 source $ROOT_PATH/modules/ip.sh
 source $ROOT_PATH/modules/kill.sh
-source $ROOT_PATH/modules/open.sh
 source $ROOT_PATH/modules/shorty.sh
 source $ROOT_PATH/modules/tail.sh
 source $ROOT_PATH/modules/yazi.sh
