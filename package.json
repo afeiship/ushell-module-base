@@ -13,8 +13,7 @@
     "base",
     "cd",
     "chmod",
-    "chown",
-    "guc"
+    "chown"
   ],
   "author": "afei",
   "license": "MIT",
