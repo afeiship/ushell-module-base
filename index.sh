@@ -27,6 +27,7 @@ source $ROOT_PATH/modules/yazi.sh
 alias reload='source $BASH_BASE_PATH/src/index.sh'
 alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -'
 alias mkd="$ROOT_PATH/modules/_mkd.sh"
+alias ls-info="$ROOT_PATH/modules/03-ls-info.sh"
 
 ## aliases:
 alias cwd="pwd | tr -d '\n' | pbcopy"
