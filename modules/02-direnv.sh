@@ -4,3 +4,4 @@
 eval "$(direnv hook bash)"
 
 alias dal="direnv allow"
+alias de="direnv"
