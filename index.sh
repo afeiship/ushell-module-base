@@ -11,6 +11,7 @@ PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ 
 
 source $ROOT_PATH/modules/01-edit.sh
 source $ROOT_PATH/modules/02-direnv.sh
+source $ROOT_PATH/modules/04-bakup.sh
 source $ROOT_PATH/modules/_ins.sh
 source $ROOT_PATH/modules/_mkp.sh
 source $ROOT_PATH/modules/cd.sh
@@ -25,7 +26,9 @@ source $ROOT_PATH/modules/yazi.sh
 
 # Edit file
 alias reload='source $BASH_BASE_PATH/src/index.sh'
-alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -'
+
+# alias bakup='cd ~/github/macos-backup/ && gg "feat(daily): automatic backup mac files" && cd -'
+
 alias mkd="$ROOT_PATH/modules/_mkd.sh"
 alias ls-info="$ROOT_PATH/modules/03-ls-info.sh"
 
