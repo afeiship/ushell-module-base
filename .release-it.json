@@ -3,10 +3,21 @@
     "requireCleanWorkingDir": false
   },
   "hooks": {
-    "after:release": ["npm pkg get name | cnpm sync"]
+    "after:release": [
+      "npm pkg get name | cnpm sync"
+    ]
   },
   "github": {
     "release": true,
     "proxy": "http://127.0.0.1:9090"
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": {
+        "name": "angular"
+      },
+      "infile": "CHANGELOG.md",
+      "ignoreRecommendedBump": true
+    }
   }
 }

@@ -27,5 +27,8 @@
   },
   "scripts": {
     "release": "release-it"
+  },
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.4"
   }
 }
