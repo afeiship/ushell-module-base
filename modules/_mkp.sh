@@ -4,7 +4,7 @@ function mkp() {
   mkdir -p "$1" && cd "$1"
 }
 
-mkfile() {
+mkff() {
   local force=0
 
   # 解析选项
