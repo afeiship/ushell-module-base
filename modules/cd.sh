@@ -19,6 +19,7 @@ alias dkr="cd ~/aric-docker";
 alias a7="cd ~/alo7i";
 alias saybot="cd ~/saybot";
 alias dw="cd ~/Downloads";
+alias dsk="cd ~/Desktop";
 alias dot="cd ~/.dotfiles";
 alias fit="cd ~/aric-tpls/fittings";
 
