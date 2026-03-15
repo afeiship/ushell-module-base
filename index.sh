@@ -12,6 +12,7 @@ PS1="\[[\e[1;32m\]\u\[\e[m\]\[\e[1;36m\]@\[\e[m\]\[\e[1;35m\]\h\[\e[m\]:\w]\n\$ 
 source $ROOT_PATH/modules/01-edit.sh
 source $ROOT_PATH/modules/02-direnv.sh
 source $ROOT_PATH/modules/04-bakup.sh
+source $ROOT_PATH/modules/05-cx.sh
 source $ROOT_PATH/modules/_ins.sh
 source $ROOT_PATH/modules/_mkp.sh
 source $ROOT_PATH/modules/cd.sh
