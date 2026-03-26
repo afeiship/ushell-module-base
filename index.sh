@@ -13,6 +13,7 @@ source $ROOT_PATH/modules/01-edit.sh
 source $ROOT_PATH/modules/02-direnv.sh
 source $ROOT_PATH/modules/04-bakup.sh
 source $ROOT_PATH/modules/05-cx.sh
+source $ROOT_PATH/modules/06-killport.sh
 source $ROOT_PATH/modules/_ins.sh
 source $ROOT_PATH/modules/_mkp.sh
 source $ROOT_PATH/modules/cd.sh
