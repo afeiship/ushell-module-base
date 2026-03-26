@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.76](https://github.com/afeiship/ushell-module-base/compare/1.0.73...1.0.76) (2026-03-26)
+
+
+### Features
+
+* add cx module for command execution ([7ee2ba8](https://github.com/afeiship/ushell-module-base/commit/7ee2ba8bcb0a6de386837b6c64e418b4dad401c6))
+* **killport:** add module for killing processes by port ([7ddbe14](https://github.com/afeiship/ushell-module-base/commit/7ddbe148f19427c8872ed343f600bf7fc7a672de))
+* **version:** Release version 1.0.75 ([21528e3](https://github.com/afeiship/ushell-module-base/commit/21528e327b540793899bc98a23789fa2c7c74342))
+
 ## [1.0.75](https://github.com/afeiship/ushell-module-base/compare/1.0.73...1.0.75) (2026-03-15)
 
 
