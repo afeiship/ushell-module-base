@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.79](https://github.com/afeiship/ushell-module-base/compare/1.0.78...1.0.79) (2026-10-24)
+
+
+### Features
+
+* **cx:** enable cx module and replace alias with eval-based function ([f99aece](https://github.com/afeiship/ushell-module-base/commit/f99aece9e1087a13c7aab2abba1a5b1aac24d2f8))
+
 ## [1.0.78](https://github.com/afeiship/ushell-module-base/compare/1.0.73...1.0.78) (2026-10-23)
 
 
