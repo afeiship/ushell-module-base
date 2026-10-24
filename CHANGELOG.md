@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.0.80](https://github.com/afeiship/ushell-module-base/compare/1.0.79...1.0.80) (2026-10-24)
+
 ## [1.0.79](https://github.com/afeiship/ushell-module-base/compare/1.0.78...1.0.79) (2026-10-24)
 
 
