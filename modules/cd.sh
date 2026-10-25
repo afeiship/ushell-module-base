@@ -7,17 +7,8 @@ alias cpi="cd packages/lib";
 
 
 # base dir
-alias notes="cd ~/aric-notes";
-alias server="cd ~/aric-server";
-alias lwb="cd ~/aric-lwb";
-alias jsw="cd ~/aric-jswork";
-alias sp="cd ~/aric-spider";
-alias bus="cd ~/aric-business";
-alias pypi="cd ~/aric-pypi";
-alias tpls="cd ~/aric-tpls";
-alias dkr="cd ~/aric-docker";
-alias a7="cd ~/alo7i";
-alias saybot="cd ~/saybot";
+alias luca="cd $HOME/git-repos/git.luca-ai-bio.com";
+alias kb="cd $HOME/github/issue-notes";
 alias dw="cd ~/Downloads";
 alias dsk="cd ~/Desktop";
 alias dot="cd ~/.dotfiles";
