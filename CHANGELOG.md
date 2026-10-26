@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.82](https://github.com/afeiship/ushell-module-base/compare/1.0.81...1.0.82) (2026-10-26)
+
+
+### Features
+
+* **cd:** add kbi alias to open issue-notes GitHub issues page ([062ca58](https://github.com/afeiship/ushell-module-base/commit/062ca58dc8871c0b4b2d91652bbb93115ef87243))
+
 ## [1.0.81](https://github.com/afeiship/ushell-module-base/compare/1.0.80...1.0.81) (2026-10-25)
 
 ## [1.0.80](https://github.com/afeiship/ushell-module-base/compare/1.0.79...1.0.80) (2026-10-24)
