@@ -9,6 +9,7 @@ alias cpi="cd packages/lib";
 # base dir
 alias luca="cd $HOME/git-repos/git.luca-ai-bio.com";
 alias kb="cd $HOME/github/issue-notes";
+alias kbi="open https://github.com/afeiship/issue-notes/issues";
 alias dw="cd ~/Downloads";
 alias dsk="cd ~/Desktop";
 alias dot="cd ~/.dotfiles";
