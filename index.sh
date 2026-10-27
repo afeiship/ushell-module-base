@@ -42,7 +42,6 @@ alias szz='du -hks'
 alias szm="ps aux --sort=-%mem | head"
 alias count='ls | wc -l'
 alias ubin='cd /usr/local/bin';
-alias ju='just';
 
 # brew install expect
 alias mkpw='mkpasswd'
