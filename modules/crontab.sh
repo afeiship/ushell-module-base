@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+alias ct="crontab";
 alias cne="crontab -e";
 alias cnl="crontab -l";
 
