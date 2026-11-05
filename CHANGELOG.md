@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.86](https://github.com/afeiship/ushell-module-base/compare/1.0.85...1.0.86) (2026-11-05)
+
+
+### Features
+
+* **cd:** add core package alias and remove outdated fitting alias ([83f8ac2](https://github.com/afeiship/ushell-module-base/commit/83f8ac292b0622d3f2725ec6fe4e8a46a6aa5cc1))
+
 ## [1.0.85](https://github.com/afeiship/ushell-module-base/compare/1.0.84...1.0.85) (2026-11-05)
 
 ## [1.0.84](https://github.com/afeiship/ushell-module-base/compare/1.0.83...1.0.84) (2026-10-27)
