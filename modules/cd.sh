@@ -16,4 +16,4 @@ alias dot="cd ~/.dotfiles";
 alias fit="cd ~/aric-tpls/fittings";
 
 # crontab tasks
-alias cns="cd ~/aric-server/crontab-tasks";
+# alias cns="cd ~/aric-server/crontab-tasks";
