@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.87](https://github.com/afeiship/ushell-module-base/compare/1.0.86...1.0.87) (2026-11-07)
+
+
+### Features
+
+* **aliyun:** add jswork registry prefix environment variable ([4119777](https://github.com/afeiship/ushell-module-base/commit/4119777a87beb33392d57db51d16af2c05610cb7))
+
 ## [1.0.86](https://github.com/afeiship/ushell-module-base/compare/1.0.85...1.0.86) (2026-11-05)
 
 
