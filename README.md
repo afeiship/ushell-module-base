@@ -3,13 +3,13 @@
 
 ## installation
 ```shell
-npm i @jswork/ushell-module-base
+pnpm add @jswork/ushell-module-base
 ```
 
 ## dependencies
 ```shell
-npm i -g del-cli
-npm i -g ntl
-npm i -g @jswork/git-url-cli
-npm i -g npm-install-peers publish-preview yarn
+pnpm add -g del-cli
+pnpm add -g ntl
+pnpm add -g npm-check-updates
+pnpm add -g npm-install-peers publish-preview
 ```
