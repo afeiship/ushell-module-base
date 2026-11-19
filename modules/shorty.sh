@@ -4,7 +4,6 @@
 
 # npm
 alias b="npm run build";
-alias i="npm i";
 alias s="npm run start";
 
 # `y` in ushell-module-yarn
