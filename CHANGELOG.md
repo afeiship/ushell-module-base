@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.90](https://github.com/afeiship/ushell-module-base/compare/1.0.89...1.0.90) (2026-11-22)
+
+
+### Features
+
+* **cd:** add cpe alias for navigating to example packages directory ([1208c09](https://github.com/afeiship/ushell-module-base/commit/1208c09e6d76ea34ccde206b072c7a3b9a5cdf00))
+
 ## [1.0.89](https://github.com/afeiship/ushell-module-base/compare/1.0.88...1.0.89) (2026-11-19)
 
 ## [1.0.88](https://github.com/afeiship/ushell-module-base/compare/1.0.87...1.0.88) (2026-11-07)
