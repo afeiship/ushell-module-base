@@ -4,6 +4,7 @@ alias ..='cd ..';
 alias ...='cd ../..';
 alias c-='cd -';
 alias cpi="cd packages/lib";
+alias cpe="cd packages/example";
 alias cpc="cd packages/core";
 
 
